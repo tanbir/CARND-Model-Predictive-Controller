@@ -1,0 +1,3 @@
+/mnt/d/UDACITY - CARND/p10/CarND-MPC-Project/build/CMakeFiles/edit_cache.dir
+/mnt/d/UDACITY - CARND/p10/CarND-MPC-Project/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/UDACITY - CARND/p10/CarND-MPC-Project/build/CMakeFiles/mpc.dir
